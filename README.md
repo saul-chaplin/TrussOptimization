@@ -1,4 +1,5 @@
-# TrussOptimization
+# Methods and Codes for Truss Optimization (Languages: Python, AMPL (coming soon))
+#
 # See the TrussOptimization.pdf for theory
 # *A WORK IN PROGRESS*. The TrussOptimization.pdf will be continually updated with new methods, and codes will be added.
 # See references section of TrussOptimization.pdf for works cited
