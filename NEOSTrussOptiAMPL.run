@@ -1,8 +1,8 @@
  option solver minos;
  option show_stats 1;
 
-option minos_options  ' \ 
-   superbasics_limit=3000\ 
+option minos_options  ' \
+   superbasics_limit=3000\
 ';
-solve;  
-display F,S;  
+solve;
+display F,S;
