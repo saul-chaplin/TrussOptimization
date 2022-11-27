@@ -12,7 +12,7 @@ param dofx {NODES}; #Whether or not x at the node is a DOF
 param dofy {NODES}; #Whether or not y at the node is a DOF
 param Cx  {NODES,MEMBERS}; # 
 param Cy {NODES,MEMBERS};
-param jc = 1; #Joint cost 
+param jc = 2; #Joint cost 
 param E = 10; #Young's Modulus 
 param Cw = 1; #How much we car about weight
 param Cc = 1; #How much we car about constructibility
