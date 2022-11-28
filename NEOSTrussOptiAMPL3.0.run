@@ -1,0 +1,20 @@
+# option solver minos;
+# option show_stats 1;
+#
+#option minos_options  ' \
+#   superbasics_limit=3000\
+#';
+
+#option presolve 1;
+#mip_multistart=1;
+
+#option knitro_options  ' \
+#   mip_multistart=1\
+#';
+
+#option knitro_options  ' \
+#   mip_multistart=1\
+#';
+
+solve;
+display F,S,ID;
