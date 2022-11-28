@@ -1,0 +1,3 @@
+option mip_multistart 1;
+solve;
+display F,S,ID;
